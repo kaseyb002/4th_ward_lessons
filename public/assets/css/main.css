@@ -1,7 +1,6 @@
 body {
 	font-family: "Avenir";
 	color: #484848;
-  font-size: 1.1em;
 }
 .img-showcase {
 	width: 100%;
@@ -151,7 +150,7 @@ a.no-decor {
 }
 .verse {
   font-family: "Times";
-  font-size: 1.2em;
+  font-size: 1.1em;
   font-style: italic;
 }
 .section-1 {
