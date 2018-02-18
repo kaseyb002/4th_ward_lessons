@@ -152,6 +152,8 @@ a.no-decor {
   font-family: "Times";
   font-size: 1.1em;
   font-style: italic;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 .red-background {
   background-color: rgba(255, 0, 0, 0.3);
