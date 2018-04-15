@@ -156,22 +156,22 @@ a.no-decor {
   margin-right: 5%;
 }
 .red-background {
-  background-color: rgba(255, 0, 0, 0.3);
+  background-color: rgba(255, 0, 0, 0.1);
 }
 .green-background {
-  background-color: rgba(0, 255, 0, 0.25);
+  background-color: rgba(0, 255, 0, 0.07);
 }
 .purple-background {
-  background-color: rgba(0, 0, 255, 0.25);
+  background-color: rgba(0, 0, 255, 0.1);
 }
 .pink-background {
-  background-color: rgba(255, 0, 255, 0.25);
+  background-color: rgba(255, 0, 255, 0.1);
 }
 .yellow-background {
-  background-color: rgba(255, 255, 0, 0.5);
+  background-color: rgba(255, 255, 0, 0.2);
 }
 .brown-background {
-  background-color: rgba(131, 92, 59, 0.50);
+  background-color: rgba(131, 92, 59, 0.2);
 }
 .top-baby-buffer {
   margin-top: 30px;
